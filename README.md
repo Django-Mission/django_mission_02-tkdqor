@@ -1,6 +1,6 @@
 # 2차 미션
 
-## Basic 과제
+## :pushpin: Basic 과제
 - **Basic 디렉터리 - first-django 디렉터리 내부 Support App에 Basic 과제 수행**
 - **Faq 모델 어드민 페이지**
 
@@ -13,7 +13,7 @@
 
 * * *
 
-## Challenge 과제
+## :pushpin: Challenge 과제
 - **Challenge 디렉터리 - first-django 디렉터리 내부 Support App에 Challenge 과제 수행**
   - **Inquiry 모델에서 핸드폰 번호를 CharField로 설정한 후, 유효성 검증을 진행할 수 있도록 설정**
   - [참고 블로그](https://velog.io/@mmy789/Django-User-%EB%AA%A8%EB%8D%B8%EC%97%90-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
